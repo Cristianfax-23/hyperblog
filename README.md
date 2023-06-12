@@ -11,4 +11,9 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 
 EL mejor estudiante de platzi ** Cristian Toro** 🤓🤓✨
+<<<<<<< HEAD
+=======
+me gusta aprender aprogramar porque estoy contribuyendo con mi futuro y ayuda con mi progreso personal
+queiro ganar mucho dinero 💵💵💵😁
+>>>>>>> 7285534 (me gusta tener estabilidad economica)
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
